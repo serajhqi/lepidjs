@@ -1,0 +1,10 @@
+{
+  "name": "lepidjs",
+  "version": "0.0.1",
+  "description": "Node.js MVC Framework",
+  "main": "index.js",
+  "repository": "https://github.com/serajhqi/lepidjs.git",
+  "author": "SERAJ <petrichor7u@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
