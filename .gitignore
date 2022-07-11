@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.directory
+.env
+yarn-error.log
+yarn.lock
+.env.development
+.env.production
+.kdev4
